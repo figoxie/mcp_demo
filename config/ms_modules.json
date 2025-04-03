@@ -1,0 +1,10 @@
+{
+  "add": {
+    "url": "http://localhost:8000/add",
+    "method": "POST"
+  },
+  "multiply": {
+    "url": "http://localhost:8000/multiply",
+    "method": "POST"
+  }
+}
